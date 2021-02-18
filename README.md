@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm lukech 👋
 
+I'm a __Release Manager__ at MongoDB who loves open source software, system automation, and cycling.
+
+- I've been supporting __WiredTiger__ and __MongoDB__ releases from Sydney, Australia, since 2017. 
+- Tools and technologies I love to play with
+  - Python
+  - Linux
+  - Vim & VSCode
+  - Git & Github 
+  - Evergreen CI
 <!--
 **lukech/lukech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
